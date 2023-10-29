@@ -1,0 +1,85 @@
+body
+{
+  background-position-x: center;
+background-size: 1100px;
+background-color: rgb(255, 255, 255);
+}
+.div2{
+    margin-left: 830px;
+    margin-top: 20px;
+    word-spacing: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: black;
+}
+.button {
+    background-color: #00fbf3;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+.button1 {
+  border-radius: 50px;
+  background-color: #00fbf3;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    margin-left: 2.734375vw;
+    margin-top: 200px;
+}
+.box {
+    background-color: #70ff0a;
+  }
+  
+  @property --border-angle {
+    syntax: "<angle>";
+    inherits: true;
+    initial-value: 0turn;
+  }
+
+.hii{
+background-color: aqua;
+}
+
+.div3{
+margin-top: 100px;
+}
+.mini{
+  margin-left: 35px;
+  font-size: large;
+}
+.dead{
+  float: right;
+}  
+.sub{
+  margin-left: 35px;
+  background-color: rgb(255, 255, 255);
+  border-width: 5px;
+  border-color: rgb(0, 60, 255);
+  font-size: 50px;
+ border-radius: 20px;
+}
+.about{margin-top: 0px;
+}
+.about, .p1{
+  display: inline-block;
+  margin-left: 35px;
+}
+.rest{
+  background-color: rgb(69, 66, 66);
+  color: azure;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
